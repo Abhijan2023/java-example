@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: jenkins
-          image: gouthampramath/dockerpush:2.0
+          image: Abhishek/dockerpush:2.0
           ports:
             - containerPort: 8080
               name: http
